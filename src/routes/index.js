@@ -11,3 +11,4 @@ router.get("/formulario", (req, res) => {
   res.render("formulario", {title:"formulario",});
 });
 
+module.exports = router;

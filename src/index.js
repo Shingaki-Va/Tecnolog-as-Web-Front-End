@@ -9,7 +9,7 @@ app.set("view engine", "ejs");
 //settings
 
 //routes
-app.use(require("./routes/"));
+app.use(require("./routes"));
 //routes
 
 //static files
