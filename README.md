@@ -1,2 +1,2 @@
-# Tecnolog-as-Web-Front-End
+# Tecnologias-Web-Front-End
 Prácticas Curso Next u
