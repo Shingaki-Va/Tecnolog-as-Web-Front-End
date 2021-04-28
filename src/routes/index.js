@@ -36,5 +36,9 @@ router.get("/video", (req, res) => {
   res.render("video", {title:"video",});
 });
 
+router.get("/vuelos", (req, res) => {
+  res.render("vuelos", {title:"vuelos",});
+});
+
 
 module.exports = router;
