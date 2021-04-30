@@ -40,5 +40,10 @@ router.get("/vuelos", (req, res) => {
   res.render("vuelos", {title:"vuelos",});
 });
 
+router.get("/three", (req, res) => {
+  res.render("three", {title:"Three-js",});
+});
+
+
 
 module.exports = router;
